@@ -1,2 +1,2 @@
-# krisra.github.io
+# krisra.gdm.gent
 Kristof Raes
