@@ -1,2 +1,2 @@
-# kr.gdm.gent
+# krisra.gdm.gent
 Kristof Raes
